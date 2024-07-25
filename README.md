@@ -7,10 +7,9 @@
 ## About Me
 * Saya mahasiswa Universitas Prima Indonesia
 * Jurusan Teknik Informatika
-* Minat Mobile App Development
+* Minat Mobile App Development and Web Development
 
 ## Love Programming
-* Java
 * Kotlin
 * React
 * Laravel
