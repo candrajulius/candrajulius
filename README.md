@@ -9,9 +9,12 @@
 * Jurusan Teknik Informatika
 * Minat Mobile App Development
 
-## Skill Programming
+## Love Programming
 * Java
 * Kotlin
+* React
+* Laravel
+* Flutter
 
 ## Follow Me
 <a href="https://www.instagram.com/candrajuliussinaga" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
