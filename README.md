@@ -5,13 +5,13 @@
 </p>
 
 ## About Me
-* Saya mahasiswa Universitas Prima Indonesia
+* Saya Lulusan Sarjana Teknik Informatika Universitas Prima Indonesia (S.Kom)
 * Jurusan Teknik Informatika
 * Minat Mobile App Development and Web Development
 
 ## Love Programming
 * Kotlin
-* React
+* React 
 * Laravel
 * Flutter
 
